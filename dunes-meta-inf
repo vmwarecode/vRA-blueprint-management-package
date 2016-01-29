@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">3310137</entry>
+<entry key="pkg-description"/>
+<entry key="pkg-name">com.vmware.coe.vra.content</entry>
+<entry key="used-plugins">vCACCAFE#7.0.0</entry>
+<entry key="pkg-signer">O=VMware,OU=Unknow,CN=vCO vra70.tsalab.local 450e9f24-d6be-47e0-a71d-ffe9ddf5d7ad</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknow,CN=vCO vra7.tsalab.local 2b5124bc-309f-48e1-9b55-43b31be829c3</entry>
+<entry key="vso-version">7.0.0.3310137</entry>
+<entry key="pkg-id">8a0009ac51f415af0152377c230503da</entry>
+</properties>
