@@ -3,6 +3,6 @@
 <properties>
 <comment>UTF-16</comment>
 <entry key="type">Workflow</entry>
-<entry key="signature-owner">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
+<entry key="signature-owner">O=VMware,OU=Unknown,CN=vRO vra-01a.corp.local 4a929d1e-5374-4a5e-a74a-00e9a11926dc</entry>
 <entry key="id">739a1663-b2a7-45e7-b6aa-db902b0485a5</entry>
 </properties>

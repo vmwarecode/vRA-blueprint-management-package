@@ -2,12 +2,12 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>UTF-16</comment>
-<entry key="vso-build-nb">3310137</entry>
+<entry key="vso-build-nb">3533702</entry>
 <entry key="pkg-description"/>
 <entry key="pkg-name">com.vmware.coe.vra.content</entry>
 <entry key="used-plugins">vCACCAFE#7.0.0</entry>
-<entry key="pkg-signer">O=VMware,OU=Unknow,CN=vCO vra-01a.corp.local 69596a28-3453-4109-bbf1-0c3323ef13b7</entry>
-<entry key="pkg-owner">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
-<entry key="vso-version">7.0.0.3310137</entry>
-<entry key="pkg-id">ff80808152317092015289945a8302ab</entry>
+<entry key="pkg-signer">O=VMware,OU=Unknown,CN=vRO vra-01a.corp.local 4a929d1e-5374-4a5e-a74a-00e9a11926dc</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknow,CN=vCO vra70.tsalab.local 450e9f24-d6be-47e0-a71d-ffe9ddf5d7ad</entry>
+<entry key="vso-version">7.0.1.3533702</entry>
+<entry key="pkg-id">ff8080815360ade2015360be3628011e</entry>
 </properties>
