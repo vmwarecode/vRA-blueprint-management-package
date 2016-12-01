@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<comment>UTF-16</comment>
-<entry key="type">Workflow</entry>
-<entry key="signature-owner">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
-<entry key="id">c8fb97d7-19c1-4dde-8130-aa036467627f</entry>
-</properties>
